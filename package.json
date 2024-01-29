@@ -9,7 +9,7 @@
     "analyze:web": "webpack-bundle-analyzer dist/apps/web/stats.json"
   },
   "engines": {
-    "node": "16"
+    "node": "14"
   },
   "browser": {
     "assert": false
